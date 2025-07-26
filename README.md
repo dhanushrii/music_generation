@@ -23,5 +23,3 @@ This project generates piano music using a Long Short-Term Memory (LSTM) neural 
   - matplotlib.pyplot: Visualization of training loss and accuracy.
   - midi2audio, FluidSynth: Converting MIDI files to audio.
   - IPython.display.Audio: Playing generated audio within Jupyter notebooks.
-
-**Evaluation**
